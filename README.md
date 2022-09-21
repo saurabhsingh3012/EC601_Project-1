@@ -1,2 +1,2 @@
-# EC603_Project-1
+# Visual Question Answering using Machine Learning Techniques
 Projects for EC601
