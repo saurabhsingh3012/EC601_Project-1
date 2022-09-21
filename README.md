@@ -42,3 +42,14 @@ There are also some difficult in determining suitable evaluation metrics for VQA
 ### Conclusions
 
 ![](https://user-images.githubusercontent.com/113216824/191626008-d5b3cf88-4f82-498c-84bf-0600a6441771.png)
+
+As shown in above, there has been rapid improvement in the performance of VQA algorithms, but there is still a significant gap between the best methods and humans. It remains unclear whether the improvements in performance come from the mechanisms incorporated into later systems, e.g., attention, or if it is due to other factors. [1]
+
+Although many methods have been proposed for VQA, it is difficult to determine what general techniques are superior and is heavily determined on the dataset used to train the model. For example, a model trained on a unbalanced version of VQA performed 11% worse than a model based on a balanced version of the dataset.[7]
+
+Thus, VQA is an important basic research problem in computer vision and natural language processing that requires a system to do much more than task specific algorithms. For this, we need to more varied training datasets, remove biases from existing ones and create algorithms that could answer complex and ambiguous questions
+
+
+### References:
+
+[1] Kushal Kafle, Christopher Kanan. “Visual question answering: Datasets, algorithms, and future challenges”. Available: https://www.sciencedirect.com/science/article/pii/S1077314217301170
