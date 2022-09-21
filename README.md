@@ -64,4 +64,4 @@ Thus, VQA is an important basic research problem in computer vision and natural 
 
 [6] Stanislaw Antol, Aishwarya Agrawal, Jiasen Lu, Margaret Mitchell, Dhruv Batra, C. Lawrence Zitnick, Devi Parikh: [VQA: Visual Question Answering (thecvf.com)](https://openaccess.thecvf.com/content_iccv_2015/papers/Antol_VQA_Visual_Question_ICCV_2015_paper.pdf)
 
-[7] Peng Zhang, Yash Goyal, Douglas Summers-Stay, Dhruv Batra, Devi Parikh; Yin and Yang: Balancing and Answering Binary Visual Questions: Yin and Yang: Balancing and Answering Binary Visual Questions ([thecvf.com](https://openaccess.thecvf.com/content_cvpr_2016/papers/Zhang_Yin_and_Yang_CVPR_2016_paper.pdf))
+[7] Peng Zhang, Yash Goyal, Douglas Summers-Stay, Dhruv Batra, Devi Parikh; Yin and Yang: Balancing and Answering Binary Visual Questions: Yin and Yang: Balancing and Answering Binary Visual Questions ([thecvf.com])(https://openaccess.thecvf.com/content_cvpr_2016/papers/Zhang_Yin_and_Yang_CVPR_2016_paper.pdf)
