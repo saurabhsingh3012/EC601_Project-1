@@ -20,3 +20,10 @@ There are many potential applications for VQA. One of the most obvious applicati
 ### Current Research and Challenges:
 
 In order for VQA to reach its solution, it has to solve a number of computer sub-problems, including but not limited to [1]
+
+*	Object recognition – What is beside the car?
+*	Object detection – Is the man wearing a hat?
+*	Attribute classification – What colour is the apple?
+*	Scene classification – Is it going to rain?
+*	Spatial reasoning – What is between behind the cat?
+
