@@ -54,4 +54,14 @@ Thus, VQA is an important basic research problem in computer vision and natural 
 
 [1] Kushal Kafle, Christopher Kanan. “Visual question answering: Datasets, algorithms, and future challenges”. Available: https://www.sciencedirect.com/science/article/pii/S1077314217301170
 
-Kenneth Marino, Mohammad Rastegari, Ali Farhadi and Roozbeh Mottaghi; OK-VQA: A Visual Question Answering Benchmark Requiring External Knowledge. https://arxiv.org/pdf/1906.00067.pdf
+[2] Kenneth Marino, Mohammad Rastegari, Ali Farhadi and Roozbeh Mottaghi; OK-VQA: A Visual Question Answering Benchmark Requiring External Knowledge. https://arxiv.org/pdf/1906.00067.pdf
+
+[3] Malinowski, M., Fritz, M., 2014b. Towards a visual turing challenge. arXiv preprint                   arXiv: [1410.8027] Towards a Visual Turing Challenge (arxiv.org)
+
+[4] Malinowski, M., Fritz, M., 2014a. A multi-world approach to question answering about real-world scenes based on uncertain input. In: Advances in Neural Information Processing Systems : CVPR 2016 Open Access Repository (cv-foundation.org)
+
+[5] Mengye Ren, Ryan Kiros, Richard Zeme, Exploring Models and Data for Image Question Answering:https://proceedings.neurips.cc/paper/2015/hash/831c2f88a604a07ca94314b56a4921b8-Abstract.html
+
+[6] Stanislaw Antol, Aishwarya Agrawal, Jiasen Lu, Margaret Mitchell, Dhruv Batra, C. Lawrence Zitnick, Devi Parikh: VQA: Visual Question Answering (thecvf.com)
+
+[7] Peng Zhang, Yash Goyal, Douglas Summers-Stay, Dhruv Batra, Devi Parikh; Yin and Yang: Balancing and Answering Binary Visual Questions: Yin and Yang: Balancing and Answering Binary Visual Questions (thecvf.com)
