@@ -8,4 +8,4 @@
 
 ### What is VQA?
 
-(https://github.com/saurabhsingh3012/EC603_Project-1/issues/1#issue-1381609192)
+(https://user-images.githubusercontent.com/113216824/191624483-5c4d66ac-906b-4d2a-9511-fab4ee5c4c86.png)
