@@ -56,7 +56,7 @@ Thus, VQA is an important basic research problem in computer vision and natural 
 
 [2] Kenneth Marino, Mohammad Rastegari, Ali Farhadi and Roozbeh Mottaghi; OK-VQA: A Visual Question Answering Benchmark Requiring External Knowledge. https://arxiv.org/pdf/1906.00067.pdf
 
-[3] Malinowski, M., Fritz, M., 2014b. Towards a visual turing challenge. arXiv preprint                   arXiv: [1410.8027] Towards a Visual Turing Challenge (arxiv.org)
+[3] Malinowski, M., Fritz, M., 2014b. Towards a visual turing challenge. arXiv preprint                   arXiv: [1410.8027] Towards a Visual Turing Challenge ([arxiv.org](https://arxiv.org/pdf/1410.8027.pdf))
 
 [4] Malinowski, M., Fritz, M., 2014a. A multi-world approach to question answering about real-world scenes based on uncertain input. In: Advances in Neural Information Processing Systems : CVPR 2016 Open Access Repository (cv-foundation.org)
 
