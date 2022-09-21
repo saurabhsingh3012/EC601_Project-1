@@ -37,3 +37,8 @@ While there are many number datasets to train VQA models on, the most popular da
 * The VQA Dataset [6] – VQA dataset consists of both real images from COCO (COCO-VQA) and cartoon images (SYNTH-VQA). Due to diversity and size of the dataset, COCO-VQA has been widely used to evaluate algorithms. However, COCO-VQA has a large variety of questions that could be answered without looking at the images due to language biases.
 
 
+There are also some difficult in determining suitable evaluation metrics for VQA. While evaluating the accuracy of multiple-choice answers could be a good strategy for a few problems, but questions that are more open-ended (Example: What is in that tree?), evaluating them on the basis of the accuracy of their answers could be difficult as there could be multiple right answers. (All answers: ‘Bird’, ‘Eagle’, ‘Bald Eagle’, are correct, but the evaluation metric might penalize the answer for ‘Bird’ and ‘Eagle’ just as much if the answer was ‘Horse’. One way to minimize this could be to assign 
+
+### Conclusions
+
+![](https://user-images.githubusercontent.com/113216824/191626008-d5b3cf88-4f82-498c-84bf-0600a6441771.png)
