@@ -53,3 +53,5 @@ Thus, VQA is an important basic research problem in computer vision and natural 
 ### References:
 
 [1] Kushal Kafle, Christopher Kanan. “Visual question answering: Datasets, algorithms, and future challenges”. Available: https://www.sciencedirect.com/science/article/pii/S1077314217301170
+
+Kenneth Marino, Mohammad Rastegari, Ali Farhadi and Roozbeh Mottaghi; OK-VQA: A Visual Question Answering Benchmark Requiring External Knowledge. https://arxiv.org/pdf/1906.00067.pdf
