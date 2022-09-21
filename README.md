@@ -6,4 +6,6 @@
 
 
 
-### Problem Statement/Applications
+### What is VQA?
+
+
