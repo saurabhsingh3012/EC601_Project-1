@@ -18,3 +18,5 @@ There are many potential applications for VQA. One of the most obvious applicati
 
 
 ### Current Research and Challenges:
+
+In order for VQA to reach its solution, it has to solve a number of computer sub-problems, including but not limited to [1]
